@@ -1,0 +1,8 @@
+Mone-rakho notepad is a basicaly a text editor.
+Here i am using the PyQt5 library.
+PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in.
+Also PyQt5 is free and open source software.
+PyQt5 is a GUI library from python from which we can create multiple GUI apps.
+Here, using PyQt5 we will develop a notepad like text editor. 
+This notepad will have the menu where we can create new file,open existing file,save the file,editing,cut and paste,all functionality will there.
+Check my code.
